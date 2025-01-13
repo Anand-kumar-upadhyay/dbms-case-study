@@ -34,11 +34,6 @@
 ![image](https://github.com/user-attachments/assets/6614a78e-abdb-4f28-a1d3-5015f4083bf9)<br>
 3. **Generate EMI Schedule for a Loan**<br>
 ![image](https://github.com/user-attachments/assets/103e0779-7b91-47c7-bb95-b85e257773cb)<br>
-4. **Identify Fully Paid Loans**<br>
-![image](https://github.com/user-attachments/assets/83bdb3c8-aa59-4ddf-ae64-e54b88581025)<br>
-5. **Calculate Total Interest Collected for Each**<br>
+4. **Calculate Total Interest Collected for Each**<br>
 ![image](https://github.com/user-attachments/assets/a810253c-97a0-4d3c-9cdf-3013d875c23a)<br>
-6. **Find Branches with the Highest Loan Disbursement**<br>
-![image](https://github.com/user-attachments/assets/000cf338-5e03-4dc3-8c61-abfb26afe731)<br>
-7. **Retrieve Customers with Multiple Loans**<br>
-![image](https://github.com/user-attachments/assets/c7d37021-9a6f-4181-b6f3-4fdd6c24ce1d)<br>
+
